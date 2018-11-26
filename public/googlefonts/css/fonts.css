@@ -1,0 +1,19 @@
+.select2-dropdown.select2-dropdown--below {
+	width: 230px !important;
+	z-index: 9999 !important;
+}
+.select2-results__options li {
+	padding:1px !important;
+}
+.select2-results__options li div {
+	/*background: url("/bower_components/HiGoogleFonts/css/fontsList.gif") !important;*/
+	/*background-repeat: no-repeat;*/
+	/*overflow: hidden;*/
+	/*text-indent: -999px;*/
+	/*height: 29px;*/
+	font-size: 18px;
+}
+#select2-select_fontfamily-container {
+	text-align: left !important;
+	width: 200px !important;
+}
